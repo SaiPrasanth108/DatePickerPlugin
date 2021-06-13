@@ -1,6 +1,6 @@
 {
   "name": "datepickerplugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cordova Plugin for android and iOS",
   "main": "index.js",
   "scripts": {
