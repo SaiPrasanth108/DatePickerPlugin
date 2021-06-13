@@ -1,0 +1,19 @@
+{
+  "name": "datepickerplugin",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for android and iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiPrasanth108/DatePickerPlugin.git"
+  },
+  "author": "Sai Prasanth R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaiPrasanth108/DatePickerPlugin/issues"
+  },
+  "homepage": "https://github.com/SaiPrasanth108/DatePickerPlugin#readme"
+}
